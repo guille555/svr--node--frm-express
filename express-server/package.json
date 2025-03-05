@@ -1,0 +1,16 @@
+{
+  "name": "server-express--simple",
+  "private": "false",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "DEV Scout",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
